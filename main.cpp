@@ -17,6 +17,6 @@ int main()
 	while (1)
 	{
 		std::cout << "Hello Emi!" << std::endl;
-		sleep(1000000);
+		sleep(5000000);
 	}
 }
